@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The Amadis Project]]></title>
+        <description><![CDATA[The Amadis Project]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 16 Jan 2016 14:03:21 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/de5e27f1-c38a-4ea5-ab36-9834efa53ba3.jpg">]]></description>
+            <link>undefinedd3bf44de-71c5-48c3-b376-d50aba0005f8/index.html</link>
+            <guid isPermaLink="false">d3bf44de-71c5-48c3-b376-d50aba0005f8</guid>
+            <pubDate>Sat, 16 Jan 2016 14:02:45 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
