@@ -4,7 +4,7 @@
         <description><![CDATA[The Amadis Project]]></description>
         <link>https://thegrid.ai/the-amadis-project/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Jan 2016 18:17:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jan 2016 18:43:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-amadis-project/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/the-amadis-project/0fdedb18-e82e-4ea9-a011-da4591f7261f/index.html</link>
             <guid isPermaLink="false">0fdedb18-e82e-4ea9-a011-da4591f7261f</guid>
             <pubDate>Sat, 16 Jan 2016 17:58:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c0dd8941-9c5d-4333-8815-0b72a0dcfc83.jpg">]]></description>
+            <link>https://thegrid.ai/the-amadis-project/92e471cd-3f0c-4935-87a9-fe2efdc2d715/index.html</link>
+            <guid isPermaLink="false">92e471cd-3f0c-4935-87a9-fe2efdc2d715</guid>
+            <pubDate>Sat, 16 Jan 2016 18:29:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
