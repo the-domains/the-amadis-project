@@ -1,7 +1,7 @@
 name: The Amadis Project
 favicon: null
-layout_spectrum: 0.6210578475147486
-typography_spectrum: 0.48037576442584395
+layout_spectrum: 0.50121
+typography_spectrum: 0
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#f5f3e6'
+    - '#583b33'
+    - '#817664'
+    - '#acbe98'
+    - '#909c83'
   brandStrength: 0.8268719520419836
   lightness: 0.3196783030871302
   saturation: 0.5902705767657608
